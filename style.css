@@ -46,8 +46,9 @@
   border-radius: 5px;
   outline: none;
   position: relative;
+  margin-bottom: 15px;
 }
-.note-container img {
+.input-box img {
   width: 30px;
   position: absolute;
   bottom: 15px;
